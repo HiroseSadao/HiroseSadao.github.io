@@ -2,6 +2,7 @@
 permalink: /publication/
 title: "Publications"
 author_profile: true
+layout: single
 ---
 
 # Publications
