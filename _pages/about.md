@@ -26,14 +26,14 @@ Budgets
 Awards
 ------
 - 8th place in the SoccerNet Game State Reconstruction competition. 2025.06
-- Award of Excellence in the soccer category at the Sports Data Science Competition. [Link](https://sports.ywebsys.net/news/archives/0027/) 2025.06
+- Award of Excellence in the soccer category at the Sports Data Science Competition. [Link](https://sports.ywebsys.net/news/archives/0027/) 2025.01
 - Award of Eccellence in the junior high school category at Nikkei STOCK league. [Link](https://manabow.com/sl/result/20/) 2020.03
 
 Education
 ------
-- 2025- University of Tokyo, Department of Mechano-informatics, Faculty of Engineering.
-- 2023-2025 University of Tokyo, faculty of Natural Sciences I.
-- 2020-2023 Senior high school at Komaba, University of Tsukuba, graduated as the valedictorian.
+- 2025-: University of Tokyo, Department of Mechano-informatics, Faculty of Engineering.
+- 2023-2025: University of Tokyo, faculty of Natural Sciences I.
+- 2020-2023: Senior high school at Komaba, University of Tsukuba, graduated as the valedictorian.
 
 Work experiences
 ------
