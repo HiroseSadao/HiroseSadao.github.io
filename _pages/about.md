@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Sadao Hirose (廣瀬貞雄) is a third-year bachelor student at the University of Tokyo, the department of Mechano-informatics, faculty of engineering. He is mainly engaged in research and development of sports analytics. In recent years, he is also conducting research on neural engineering.
+Sadao Hirose (廣瀬貞雄) is a third-year undergraduate student in the Department of Mechano-Informatics, Faculty of Engineering, at the University of Tokyo. His main focus is on research and development in sports analytics. In recent years, he has also been conducting research in the field of neural engineering.
 
 CV can be found [here](https://docs.google.com/document/d/1MpqryIazkd2-YdEUbSvqURnHJHXbTkMwFbUs1mk_4G4/edit?usp=sharing).
 
