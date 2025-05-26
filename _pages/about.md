@@ -32,7 +32,7 @@ Awards
 Education
 ------
 - 2025-: University of Tokyo, Department of Mechano-informatics, Faculty of Engineering.
-- 2023-2025: University of Tokyo, faculty of Natural Sciences I.
+- 2023-2025: University of Tokyo, Faculty of Natural Sciences I.
 - 2020-2023: Senior high school at Komaba, University of Tsukuba, graduated as the valedictorian.
 
 Work experiences
