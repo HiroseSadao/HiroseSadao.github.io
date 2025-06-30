@@ -38,6 +38,7 @@ Education
 Work experiences
 ------
 - 2024.01- Undergraduate Researcher, the Keio University, Ushiba Lab.
+- 2023.10-2024.11 Undergraduate Researcher, the University of Tokyo, Ohta Lab.
 
 Articles
 ------
