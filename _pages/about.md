@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Sadao Hirose (廣瀬貞雄) is a third-year undergraduate student in the Department of Mechano-Informatics, Faculty of Engineering, at the University of Tokyo. His main focus is on research and development in sports analytics. In recent years, he has also been conducting research in the field of neural engineering.
+Sadao Hirose (廣瀬貞雄) is a third-year undergraduate student in the Department of Mechano-Informatics, Faculty of Engineering, at the University of Tokyo. His main project during his undergraduate years has been to find ways to make soccer teams stronger using data. To pursue this goal, he joined the University of Tokyo’s official soccer team as a data scientist, conducted research on optimal positioning, and is currently working on a project analyzing brain states just before kicking the ball. While he has recently developed a growing interest in neuroscience, he continues to be passionate about soccer.
 
 CV can be found [here](https://docs.google.com/document/d/1MpqryIazkd2-YdEUbSvqURnHJHXbTkMwFbUs1mk_4G4/edit?usp=sharing).
 
@@ -35,11 +35,12 @@ Education
 - 2023-2025: University of Tokyo, Faculty of Natural Sciences I.
 - 2020-2023: Senior high school at Komaba, University of Tsukuba, graduated as the valedictorian.
 
-Work experiences
+Work experience
 ------
-- 2024.01- Undergraduate Researcher, the Keio University, Ushiba Lab.
-- 2023.10- Data Scientist, UTokyo Football Lab.
-- 2023.10-2024.11 Undergraduate Researcher, the University of Tokyo, Ohta Lab.
+- 2024.01 -         Undergraduate Researcher, Ushiba Lab., Keio University
+- 2023.10 -         Data Scientist, UTokyo Football Lab.
+- 2023.10 - 2024.11 Undergraduate Researcher, Ohta Lab., The University of Tokyo
+- 2023.09 - 2024.02 Community Management Intern, Deeptech Innovation Community for Entrepreneurs (DICE), The University of Tokyo
 
 Articles
 ------
