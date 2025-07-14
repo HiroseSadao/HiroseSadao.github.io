@@ -37,8 +37,8 @@ Education
 
 Work experience
 ------
-- 2024.01 -         Undergraduate Researcher, Ushiba Lab., Keio University
-- 2023.10 -         Data Scientist, UTokyo Football Lab.
+- 2024.01 - Undergraduate Researcher, Ushiba Lab., Keio University
+- 2023.10 - Data Scientist, UTokyo Football Lab.
 - 2023.10 - 2024.11 Undergraduate Researcher, Ohta Lab., The University of Tokyo
 - 2023.09 - 2024.02 Community Management Intern, Deeptech Innovation Community for Entrepreneurs (DICE), The University of Tokyo
 
