@@ -45,3 +45,9 @@ Work experience
 Articles
 ------
 - 『東大ア式蹴球部の戦術用語「手前を取る」って何？ビルドアップ成功につながるポジショニングの評価方法を数理モデルから案する』, [footoballista](https://www.footballista.jp/special/197356)
+
+Skills
+------
+- Japanese (native), English (TOEFL 98)
+- machine tools (lathe, milling machine, drill press), CAD(SolidWorks)
+- Python, C/C++
