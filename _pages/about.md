@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Sadao Hirose (廣瀬貞雄) is a third-year undergraduate student in the Department of Mechano-Informatics, Faculty of Engineering, at the University of Tokyo. His main project during his undergraduate years has been to find ways to make soccer teams stronger using data. To pursue this goal, he joined the University of Tokyo’s official soccer team as a data scientist, conducted research on optimal positioning, and is currently working on a project analyzing brain states just before kicking the ball. While he has recently developed a growing interest in neuroscience, he continues to be passionate about soccer.
+Sadao Hirose (廣瀬貞雄) is a third-year undergraduate student in the Department of Mechano-Informatics, Faculty of Engineering, at the University of Tokyo. His main project during his undergraduate years has been to find ways to make soccer teams stronger using data. To pursue this goal, he joined the University of Tokyo’s official soccer team as a data scientist, conducted research on optimal positioning, and is currently working on a project analyzing brain states just before kicking the ball. Recently, while continuing to engage in soccer-related projects, his academic focus has increasingly turned to neuroscience, with a particular interest in the realization of brain-inspired computing systems.
 
 CV can be found [here](https://docs.google.com/document/d/1MpqryIazkd2-YdEUbSvqURnHJHXbTkMwFbUs1mk_4G4/edit?usp=sharing).
 
