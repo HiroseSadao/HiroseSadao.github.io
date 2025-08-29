@@ -25,7 +25,7 @@ Budgets
 
 Awards
 ------
-- 8th place in the SoccerNet Game State Reconstruction competition. 2025.06
+- 8th place in the SoccerNet Game State Reconstruction competition. [Link](https://arxiv.org/abs/2508.19182) 2025.06
 - Award of Excellence in the soccer category at the Sports Data Science Competition. [Link](https://sports.ywebsys.net/news/archives/0027/) 2025.01
 - Award of Excellence in the junior high school category at Nikkei STOCK league. [Link](https://manabow.com/sl/result/20/) 2020.03
 
