@@ -21,7 +21,7 @@ Department of Mechano-informatics, Faculty of Engineering, The University of Tok
 
 Budgets
 ------
-- 2024.02 - 2024.03: [Spring Founders Program](https://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html). (budget: 300000 JPY; Project name: Football Instant Extraction Service)
+- 2024.02 - 2024.03: [Spring Founders Program](https://www.ducr.u-tokyo.ac.jp/activity/venture/sfp.html). (budget: 300,000 JPY; Project name: Football Instant Extraction Service)
 
 Awards
 ------
